@@ -1,7 +1,7 @@
 import pandas as pd
 import pycurl as curl # The API can be accessed with the package berserk instead of curl. https://github.com/lichess-org/berserk
 from io import BytesIO
-user = "Albinusss"
+user = "AlvinM"
 base_url = "https://lichess.org/api/games/user/"
 no_games=500
 rated ='true'
